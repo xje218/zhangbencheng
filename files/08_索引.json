@@ -1,0 +1,296 @@
+{
+  "items": [
+    {
+      "name": "沈砚",
+      "category": "人物",
+      "first_chapter": 1,
+      "gloss": "东街记录员，负责换页，随身铜尺与档案柜钥匙",
+      "related": [
+        "阿桉",
+        "铜钥匙",
+        "铜尺",
+        "换页"
+      ]
+    },
+    {
+      "name": "阿桉",
+      "category": "人物",
+      "first_chapter": 1,
+      "gloss": "纸街抄写员，把划掉的条目抄进自己账册的人",
+      "related": [
+        "沈砚",
+        "竹笔",
+        "抄写",
+        "半张旧纸"
+      ]
+    },
+    {
+      "name": "钟叔",
+      "category": "人物",
+      "first_chapter": 1,
+      "gloss": "旧钟楼看守，前一任记录员，总戴手套",
+      "related": [
+        "旧钟楼",
+        "旧绒布",
+        "铜钥匙"
+      ]
+    },
+    {
+      "name": "小满",
+      "category": "人物",
+      "first_chapter": 2,
+      "gloss": "寄存处学徒，只在周五傍晚出现，管木牌与木盒",
+      "related": [
+        "寄存处",
+        "木牌十七",
+        "木盒",
+        "布包"
+      ]
+    },
+    {
+      "name": "东街",
+      "category": "地点",
+      "first_chapter": 1,
+      "gloss": "长桌连成一排，公共账册所在",
+      "related": [
+        "格",
+        "条目",
+        "硬皮夹"
+      ]
+    },
+    {
+      "name": "纸街",
+      "category": "地点",
+      "first_chapter": 1,
+      "gloss": "抄写员聚集，墙上层层旧纸，废页堆在街角",
+      "related": [
+        "阿桉",
+        "抄写",
+        "竹笔"
+      ]
+    },
+    {
+      "name": "钟楼街",
+      "category": "地点",
+      "first_chapter": 1,
+      "gloss": "安静，地面有钟摆长影，影子长度即时间刻度",
+      "related": [
+        "旧钟楼",
+        "钟叔"
+      ]
+    },
+    {
+      "name": "寄存处",
+      "category": "地点",
+      "first_chapter": 1,
+      "gloss": "街尾木门小窗，只在周五傍晚开门",
+      "related": [
+        "小满",
+        "木盒",
+        "木牌十七"
+      ]
+    },
+    {
+      "name": "旧钟楼",
+      "category": "地点",
+      "first_chapter": 1,
+      "gloss": "指针停着，钟只在不可撤回的选择时响",
+      "related": [
+        "钟叔",
+        "钟楼街"
+      ]
+    },
+    {
+      "name": "铜尺",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "记录员压纸的工具，兼作量影子的尺",
+      "related": [
+        "沈砚",
+        "格"
+      ]
+    },
+    {
+      "name": "铜钥匙",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "档案柜钥匙，齿三道，第三道短",
+      "related": [
+        "沈砚",
+        "钟叔",
+        "小满",
+        "档案柜"
+      ]
+    },
+    {
+      "name": "木牌十七",
+      "category": "道具",
+      "first_chapter": 2,
+      "gloss": "寄存处取件号牌，背面刻槽嵌灰",
+      "related": [
+        "小满",
+        "寄存处"
+      ]
+    },
+    {
+      "name": "木盒",
+      "category": "道具",
+      "first_chapter": 2,
+      "gloss": "寄存处按名字归档的盒子，装划掉的条目",
+      "related": [
+        "小满",
+        "寄存处",
+        "旧条目"
+      ]
+    },
+    {
+      "name": "竹笔",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "阿桉的抄写笔，笔杆短，握处磨亮",
+      "related": [
+        "阿桉",
+        "抄写"
+      ]
+    },
+    {
+      "name": "旧绒布",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "钟叔擦钟的布，上面五道指甲刻痕",
+      "related": [
+        "钟叔",
+        "旧钟楼"
+      ]
+    },
+    {
+      "name": "布包",
+      "category": "道具",
+      "first_chapter": 2,
+      "gloss": "小满的布包，装木牌与一枚备用铜钥匙",
+      "related": [
+        "小满",
+        "铜钥匙",
+        "木牌十七"
+      ]
+    },
+    {
+      "name": "硬皮夹",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "装旧页的硬皮夹，立在档案柜里",
+      "related": [
+        "东街",
+        "档案柜",
+        "换页"
+      ]
+    },
+    {
+      "name": "半张旧纸",
+      "category": "道具",
+      "first_chapter": 1,
+      "gloss": "撕自阿桉账册的一角，只剩半个「桉」字",
+      "related": [
+        "阿桉",
+        "小满",
+        "沈砚"
+      ]
+    },
+    {
+      "name": "旧条目",
+      "category": "道具",
+      "first_chapter": 2,
+      "gloss": "沈砚写下的两笔：「阿桉」与「今日已换」",
+      "related": [
+        "沈砚",
+        "木盒",
+        "条目"
+      ]
+    },
+    {
+      "name": "条目",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "写在格子里的一行字，一天只能写一条",
+      "related": [
+        "格",
+        "划掉",
+        "账册"
+      ]
+    },
+    {
+      "name": "格",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "账册一页上写条目的空位，两指宽一指高",
+      "related": [
+        "条目",
+        "账册",
+        "铜尺"
+      ]
+    },
+    {
+      "name": "划掉",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "在条目上压一道横线，划掉的不留痕也不留名",
+      "related": [
+        "条目",
+        "抄写"
+      ]
+    },
+    {
+      "name": "抄写",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "把别人划掉的条目写进自己账册，一辈子一次",
+      "related": [
+        "阿桉",
+        "划掉",
+        "账册"
+      ]
+    },
+    {
+      "name": "换页",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "记录员的活：收旧页、铺新页、写天头",
+      "related": [
+        "沈砚",
+        "天头",
+        "硬皮夹"
+      ]
+    },
+    {
+      "name": "账册",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "各人自持的册子，条目写在里面",
+      "related": [
+        "条目",
+        "格",
+        "抄写"
+      ]
+    },
+    {
+      "name": "天头",
+      "category": "术语",
+      "first_chapter": 1,
+      "gloss": "一页最上面写日子与「今日已换」的地方",
+      "related": [
+        "换页",
+        "条目"
+      ]
+    },
+    {
+      "name": "档案柜",
+      "category": "术语",
+      "first_chapter": 3,
+      "gloss": "存放旧页硬皮夹的柜子，钥匙挂在记录员腰间",
+      "related": [
+        "硬皮夹",
+        "铜钥匙"
+      ]
+    }
+  ]
+}
